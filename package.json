@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/alexG53090/sandstorm-2#readme",
   "dependencies": {
+    "body-parser": "^1.14.2",
+    "cookie-parser": "^1.4.1",
+    "dotenv": "^2.0.0",
     "express": "^4.13.4",
     "knex": "^0.9.0",
     "pg": "^4.4.4"
