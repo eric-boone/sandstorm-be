@@ -1,0 +1,24 @@
+{
+  "name": "sandstorm-2",
+  "version": "1.0.0",
+  "description": "one day challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexG53090/sandstorm-2.git"
+  },
+  "author": "Alex Bennett <alexandergraybennett@gmail.com> (http://thedope.agency)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexG53090/sandstorm-2/issues"
+  },
+  "homepage": "https://github.com/alexG53090/sandstorm-2#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "knex": "^0.9.0",
+    "pg": "^4.4.4"
+  }
+}
